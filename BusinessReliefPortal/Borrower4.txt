@@ -1,0 +1,8 @@
+Hello the Borrower Details are:
+Business name 	qwertyt
+Business Description 	keyuboad
+Business Location 	dsfdg
+Number of Employees	133
+Business revenue 	34441.0
+Employee Average Salaries 	12311.0
+Business Funds 	34444.0
